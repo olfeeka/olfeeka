@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ekaterina 👋</h1>
 <h3 align="center">Welcome to my page! I'm a Junior Frontend Developer from Russia :dizzy:</h3>
 
-### 🛠️ Technology Stack
+<h2>🛠️ Technology Stack</h2> 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
@@ -16,7 +16,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
 </div>
 
-### ⚙️ Github Stats
+<h2>⚙️ Github Stats</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olfeeka&layout=compact)](https://github.com/olfeeka/github-readme-stats)
 
