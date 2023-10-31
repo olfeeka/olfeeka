@@ -3,16 +3,8 @@
   <p align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="350" align="center"></p>
 
 ## 📫 Contacts
-<div>
- <a href="https://t.me/kate_olfert" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" width="40" height="40" alt="Telegram Badge"/>
- </a>
- <a href="mailto:olfeeka@gmail.com" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/4616/4616073.png" width="40" height="40" alt="Email Badge"/>
- </a>
-</div>
-<!-- [![Telegram Badge](https://img.shields.io/badge/-olfeeka-blue?style=flat-square&logo=Telegram&logoColor=white&color=blue&link=https://t.me/kate_olfert)](https://t.me/kate_olfert) -->
-
+ <a href="https://t.me/kate_olfert" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" width="40" height="40" alt="Telegram Badge"/></a>&nbsp;&nbsp;
+ <a href="mailto:olfeeka@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/4616/4616073.png" width="40" height="40" alt="Email Badge"/></a>
 
 ## 🛠️ Technology Stack 
 <div>
