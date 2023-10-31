@@ -5,10 +5,10 @@
 ## 📫 Contacts
 <div>
  <a href="https://t.me/kate_olfert" target="_blank">
-  <img src="https://github.com/olfeeka/olfeeka/assets/123363375/d4606888-e6e0-48fc-8997-8b59e862cba4" width="40" height="40" alt="Telegram Badge"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" width="40" height="40" alt="Telegram Badge"/>
  </a>
  <a href="mailto:olfeeka@gmail.com" target="_blank">
-  <img src="https://github.com/olfeeka/olfeeka/assets/123363375/d2bd9973-266b-4449-b00c-42da923cc3bb" width="40" height="40" alt="Email Badge"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4616/4616073.png" width="40" height="40" alt="Email Badge"/>
  </a>
 </div>
 <!-- [![Telegram Badge](https://img.shields.io/badge/-olfeeka-blue?style=flat-square&logo=Telegram&logoColor=white&color=blue&link=https://t.me/kate_olfert)](https://t.me/kate_olfert) -->
