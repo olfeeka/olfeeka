@@ -1,5 +1,5 @@
   <h1 align="center">Hi there, I'm Ekaterina 👋</h1>
-  <h3 align="center"> Welcome to my page! I'm a Junior Frontend Developer from Russia :dizzy: </h3>
+  <h3 align="center"> Welcome to my page! I'm a budding Frontend Developer from Samara, a city on the Volga River, Russia. My journey in coding is just beginning, and I'm passionate about crafting responsive and dynamic web applications using JavaScript, React, HTML, and CSS. :dizzy: </h3>
   <p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/></p>
  <!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="350" align="center"> -->
 
